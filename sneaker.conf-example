@@ -1,0 +1,16 @@
+# Configuration file for sneaker.pl
+# Must be renamed to  sneaker.conf
+
+server 			= talk.google.com
+port 			= 5222
+username 		= cotillona # from my_username@my_jabber.net
+componentname 		= joneame.net # from my_username@my_jabber.net
+password 		= password
+resource 		= joneame
+#logfile 		= sneaker.log # file in the program directory, comment it out if you don't want the logs
+dbhost 			= localhost
+dbuser                  = joneame
+dbpassword              = password
+dbname                  = joneame
+
+
